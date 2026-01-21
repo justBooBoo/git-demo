@@ -7,4 +7,4 @@ hello git!
 hello git!
 1234567890
 hello git! master fix
-hot fix 
+hot fix   hot fixed
